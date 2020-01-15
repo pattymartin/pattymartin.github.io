@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Subjective Sort"
 permalink: /subjective-sort/
+---
 
 # Subjective Sort
 
