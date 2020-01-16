@@ -1,9 +1,3 @@
----
-layout: page
-title: "Subjective Sort"
-permalink: /subjective-sort/
----
-
 # Subjective Sort
 
 [Subjective Sort](https://github.com/pattymartin/subjective-sort) is a project
