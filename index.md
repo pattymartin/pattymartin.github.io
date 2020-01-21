@@ -27,6 +27,18 @@
 
 ---
 
+<img align="right" width="25%" src="https://i.imgur.com/dpVOpvP.png">
+
+## Morse Code IME
+
+*Type in Morse code on the Samsung Galaxy Watch.*
+<br>
+[[View on Github](https://github.com/pattymartin/morse-ime)]
+
+`C` `Tizen Studio`
+
+---
+
 ## Discord Bots
 
 *View my Discord bots on [my page at Glitch.com](
