@@ -8,7 +8,7 @@
 
 *Host a game of Wheel of Fortune.*
 <br>
-[[View on Github](https://github.com/pattymartin/wheel-of-fortune)]
+[[View on GitHub](https://github.com/pattymartin/wheel-of-fortune)]
 
 `Python` `Kivy`
 
@@ -21,7 +21,7 @@
 *Sort items based on user preference.*
 <br>
 [[More info](https://pattymartin.github.io/subjective-sort)]
-[[View on Github](https://github.com/pattymartin/subjective-sort)]
+[[View on GitHub](https://github.com/pattymartin/subjective-sort)]
 
 `Python` `Kivy`
 
@@ -33,7 +33,7 @@
 
 *Type in Morse code on the Samsung Galaxy Watch.*
 <br>
-[[View on Github](https://github.com/pattymartin/morse-ime)]
+[[View on GitHub](https://github.com/pattymartin/morse-ime)]
 
 `C` `Tizen Studio`
 
